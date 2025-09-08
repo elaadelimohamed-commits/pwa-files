@@ -2,9 +2,12 @@
   "name": "Ziram",
   "short_name": "Ziram",
   "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#4CAF50",
+  "display": "fullscreen",
+  "background_color": "#192734",
+  "theme_color": "#192734",
+  "orientation": "portrait",
+  "description": "Ziram is a social networking app to connect, share, and grow together.",
+
   "icons": [
     {
       "src": "https://i.imgur.com/FhZ2cHz.png",
