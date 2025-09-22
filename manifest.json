@@ -2,7 +2,7 @@
   "name": "Ziram",
   "short_name": "Ziram",
   "start_url": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#192734",
   "theme_color": "#192734",
   "orientation": "portrait",
