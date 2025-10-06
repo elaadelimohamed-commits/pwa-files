@@ -10,13 +10,13 @@
 
   "icons": [
     {
-      "src":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn0XxQ6hytUxxy4rQXrsg2t-DI_qaMNTzIJNOGTDk8zVxS3zZ7cNZuCktWI-G12Gd9q5BECHb88rz7uoel07rSjT1mNX-1SYhk3UCnDMAs8k93k0czXf4W3IEZBYoH7ZWetcCnVDUfF_swtSDXKKU2IAx8L-jfwY3voBrfzCE21MX-ahri1zp1ytS4ItY/s1600/Project%20Capture%20%2822%29.png",
-      "sizes": "192x192",
+      "src":  "https://i.imgur.com/FhZ2cHz.png",
+      "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "https://i.imgur.com/FhZ2cHz.png",
-      "sizes": "512x512",
+      "src": "https://drive.google.com/thumbnail?id=1aoaEzxxg41S6msZqQmK_rclHZ717CtIm&sz=w1000",
+      "sizes": "588x588",
       "type": "image/png"
     }
   ]
