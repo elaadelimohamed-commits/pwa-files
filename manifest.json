@@ -1,21 +1,21 @@
 {
-  "name": "Ziram",
-  "short_name": "Ziram",
+  "name": "Tripadly",
+  "short_name": "TripAdly",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#192734",
   "theme_color": "white",
   "orientation": "portrait",
-  "description": "Ziram is a social networking app to connect, share, and grow together.",
+  "description": "Tripadly is a social networking app to connect, share, and grow together.",
  
   "icons": [
     {
-      "src":  "https://i.imgur.com/FhZ2cHz.png",
+      "src":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYMTo0Y_nK5qAoayskSvBe6_2gLtjHQsJ1pnbQMixXj3Ym1BzyURk4eYA3iJct5R4SeA6eZ9BR6pWhjRv_HqHGzm1rDp1Rj8nYgK3129gEhNSinESH_3VA8dF-mnKV1puqQapDWoYdpHPh8Lxj7LENlQ7jlnHc4pIqNv5yksb0co8y8r5AkbAnAaWMUbZS/s192/android-chrome-192x192.png"",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "https://i.imgur.com/FhZ2cHz.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYMTo0Y_nK5qAoayskSvBe6_2gLtjHQsJ1pnbQMixXj3Ym1BzyURk4eYA3iJct5R4SeA6eZ9BR6pWhjRv_HqHGzm1rDp1Rj8nYgK3129gEhNSinESH_3VA8dF-mnKV1puqQapDWoYdpHPh8Lxj7LENlQ7jlnHc4pIqNv5yksb0co8y8r5AkbAnAaWMUbZS/s192/android-chrome-192x192.png"",
       "sizes": "588x588",
       "type": "image/png"
     }
