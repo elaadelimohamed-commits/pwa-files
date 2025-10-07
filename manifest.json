@@ -3,21 +3,17 @@
   "short_name": "TripAdly",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#192734",
-  "theme_color": "white",
+  "background_color": "black",
+  "theme_color": "black",
   "orientation": "portrait",
   "description": "Tripadly is a social networking app to connect, share, and grow together.",
  
   "icons": [
     {
       "src":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhNQOlfFi_jCMKPCX23oOapb-sJM95rzbHr9gNq5ReKbzOhCdqxNeAD7d6BYUA-obPL_rVzccfe-mtNPO2oeMtzp_WiYTPy-eTzhSCLQhOXLaEwmu-CoTnNXFaVUrC5w5AZPDBb7fXXjwqsl42xnhsm1QXaHfEU1rKkmCiBCbHYrXBDCHhUIqxXNEHGMP1/s1600/android-chrome-512x512.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhNQOlfFi_jCMKPCX23oOapb-sJM95rzbHr9gNq5ReKbzOhCdqxNeAD7d6BYUA-obPL_rVzccfe-mtNPO2oeMtzp_WiYTPy-eTzhSCLQhOXLaEwmu-CoTnNXFaVUrC5w5AZPDBb7fXXjwqsl42xnhsm1QXaHfEU1rKkmCiBCbHYrXBDCHhUIqxXNEHGMP1/s1600/android-chrome-512x512.png",
-      "sizes": "588x588",
+      "sizes": "512x512",
       "type": "image/png"
     }
+
   ]
 }
